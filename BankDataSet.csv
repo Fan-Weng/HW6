@@ -1,4 +1,4 @@
-Bank Name,city,stalp,zip,RepDte,Reporting Year,Employees,Total Assets(000),CashBalance(000),Total Liabilities/Capital (000),Liabilities(000),Deposits
+Bank Name,city,State,zip,RepDte,Reporting Year,Employees,Total Assets(000),CashBalance(000),Total Liabilities/Capital (000),Liabilities(000),Deposits
 1ST CAPITAL BANK,Salinas,CA,93901,9/30/2019,2019,85,637456,53476,637456,571121,565655
 1ST CAPITAL BANK,Salinas,CA,93901,9/30/2020,2020,94,749022,45680,749022,676634,661575
 1ST CAPITAL BANK,Salinas,CA,93901,9/30/2021,2021,93,1009352,131582,1009352,930792,926395
